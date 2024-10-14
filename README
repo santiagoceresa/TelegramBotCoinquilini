@@ -1,0 +1,18 @@
+Missing: Telegram button integration
+written in 3 diff languages, cpp needs completing
+Python will have Telegram integration
+Java for fun, needs Meaven's enviroment setup in file /pom.xml *
+
+
+
+
+What this does:
+Simple bot, coordinate and keep score of the roomate's house chores by assigning to every action a different score
+Alternative to using a shared documents table
+
+Java Meaven support:
+*<dependency>
+    <groupId>com.fasterxml.jackson.core</groupId>
+    <artifactId>jackson-databind</artifactId>
+    <version>2.13.0</version> <!-- O l'ultima versione disponibile -->
+</dependency>
